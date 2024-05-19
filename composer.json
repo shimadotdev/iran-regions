@@ -1,0 +1,28 @@
+{
+    "name": "shimadotdev/iran-regions",
+    "description": "A Laravel package containing province and city data of Iran, including calling codes, along with geolocation functionality. Ideal for managing location-based information within Laravel apps.",
+    "type": "laravel-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shimadotdev\\IranRegions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shima .dev",
+            "email": "hi@shima.dev"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shimadotdev\\IranRegions\\IranRegionsServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": ">=9.0"
+    }
+}

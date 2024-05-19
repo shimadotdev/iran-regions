@@ -1,0 +1,1131 @@
+[
+    {
+        "slug": "azarbaijan-sharqi",
+        "latitude": "37.90357330",
+        "longitude": "46.26821090",
+        "calling_code": "041",
+        "cities": [
+            {
+                "slug":"azar-shahr",
+                "latitude": "37.75888900",
+                "longitude": "45.97833300"
+            },
+            {
+                "slug":"osku",
+                "latitude": "37.91583300",
+                "longitude": "46.12361100"
+            },
+            {
+                "slug":"ahar",
+                "latitude": "38.48943050",
+                "longitude": "47.06835750"
+            },
+            {
+                "slug":"bestanabad",
+                "latitude": "37.85000000",
+                "longitude": "46.83333300"
+            },
+            {
+                "slug":"bonab",
+                "latitude": "37.34027800",
+                "longitude": "46.05611100"
+            },
+            {
+                "slug":"tabriz",
+                "latitude": "38.06666700",
+                "longitude": "46.30000000"
+            },
+            {
+                "slug":"jolfa",
+                "latitude": "38.94027800",
+                "longitude": "45.63083300"
+            },
+            {
+                "slug":"charoymaq",
+                "latitude": "37.12990520",
+                "longitude": "47.02456860"
+            },
+            {
+                "slug":"sarab",
+                "latitude": "37.94083300",
+                "longitude": "47.53666700"
+            },
+            {
+                "slug":"shabestar",
+                "latitude": "38.18027800",
+                "longitude": "45.70277800"
+            },
+            {
+                "slug":"ajabshir",
+                "latitude": "37.47750000",
+                "longitude": "45.89416700"
+            },
+            {
+                "slug":"kalibar",
+                "latitude": "38.86944400",
+                "longitude": "47.03555600"
+            },
+            {
+                "slug":"maraqe",
+                "latitude": "37.38916700",
+                "longitude": "46.23750000"
+            },
+            {
+                "slug":"marand",
+                "latitude": "38.42511700",
+                "longitude": "45.76963600"
+            },
+            {
+                "slug":"melkan",
+                "latitude": "37.14562500",
+                "longitude": "46.16852420"
+            },
+            {
+                "slug":"miane",
+                "latitude": "37.42111100",
+                "longitude": "47.71500000"
+            },
+            {
+                "slug":"hashtrood",
+                "latitude": "37.47777800",
+                "longitude": "47.05083300"
+            }
+        ]
+    },
+    {
+        "slug": "azerbaijan-qarbi",
+        "latitude": "37.45500620",
+        "longitude": "45.00000000",
+        "calling_code": "044",
+        "cities": [
+            {
+                "slug":"orumiyeh",
+                "latitude": "37.55527800",
+                "longitude": "45.07250000"
+            },
+            {
+                "slug":"oshnavieh",
+                "latitude": "37.03972200",
+                "longitude": "45.09833300"
+            },
+            {
+                "slug":"bookan",
+                "latitude": "36.52111100",
+                "longitude": "46.20888900"
+            },
+            {
+                "slug":"piranshahr",
+                "latitude": "36.69444400",
+                "longitude": "45.14166700"
+            },
+            {
+                "slug":"takab",
+                "latitude": "36.40083300",
+                "longitude": "47.11333300"
+            },
+            {
+                "slug":"chaldoran",
+                "latitude": "39.06498370",
+                "longitude": "44.38446790"
+            },
+            {
+                "slug":"khoy",
+                "latitude": "38.55027800",
+                "longitude": "44.95222200"
+            },
+            {
+                "slug":"sardasht",
+                "latitude": "36.15527800",
+                "longitude": "45.47888900"
+            },
+            {
+                "slug":"salmas",
+                "latitude": "38.19722200",
+                "longitude": "44.76527800"
+            },
+            {
+                "slug":"shahindezh",
+                "latitude": "36.67916700",
+                "longitude": "46.56694400"
+            },
+            {
+                "slug":"makoo",
+                "latitude": "39.29527800",
+                "longitude": "44.51666700"
+            },
+            {
+                "slug":"mahabad",
+                "latitude": "36.76305600",
+                "longitude": "45.72222200"
+            },
+            {
+                "slug":"miandoab",
+                "latitude": "36.96944400",
+                "longitude": "46.10277800"
+            },
+            {
+                "slug":"naqadeh",
+                "latitude": "36.95527800",
+                "longitude": "45.38805600"
+            },
+            {
+                "slug":"ardabil",
+                "latitude": "38.48532760",
+                "longitude": "47.89112090"
+            }
+        ]
+    },
+    {
+        "slug": "ardabil",
+        "latitude": "38.48532760",
+        "longitude": "47.89112090",
+        "calling_code": "045",
+        "cities": [
+            {
+                "slug":"khalkhaal",
+                "latitude": "37.61888900",
+                "longitude": "48.52583300"
+            }
+        ]
+    },
+    {
+        "slug": "isfehan",
+        "latitude": "32.65462750",
+        "longitude": "51.66798260",
+        "calling_code": "031",
+        "cities": [
+            {
+                "slug":"aran-va-bidgol",
+                "latitude": "34.05777800",
+                "longitude": "51.48416700"
+            },
+            {
+                "slug":"ardestan",
+                "latitude": "33.37611100",
+                "longitude": "52.36944400"
+            },
+            {
+                "slug":"isfehan",
+                "latitude": "32.65462750",
+                "longitude": "51.66798260"
+            },
+            {
+                "slug":"qomeini-shahr",
+                "latitude": "32.70027800",
+                "longitude": "51.52111100"
+            },
+            {
+                "slug":"khansar",
+                "latitude": "33.22055600",
+                "longitude": "50.31500000"
+            },
+            {
+                "slug":"semirom",
+                "latitude": "31.39883460",
+                "longitude": "51.56759300"
+            },
+            {
+                "slug":"fereydoon-shahr",
+                "latitude": "32.94111100",
+                "longitude": "50.12111100"
+            },
+            {
+                "slug":"kashan",
+                "latitude": "33.98503580",
+                "longitude": "51.40996250"
+            },
+            {
+                "slug":"golpaygan",
+                "latitude": "33.45361100",
+                "longitude": "50.28833300"
+            },
+            {
+                "slug":"mobarakeh",
+                "latitude": "32.34638900",
+                "longitude": "51.50444400"
+            },
+            {
+                "slug":"naeen",
+                "latitude": "32.85994450",
+                "longitude": "53.08783210"
+            },
+            {
+                "slug":"najaf-abad",
+                "latitude": "32.63242310",
+                "longitude": "51.36799140"
+            },
+            {
+                "slug":"natanz",
+                "latitude": "33.51333300",
+                "longitude": "51.91638900"
+            }
+        ]
+    },
+    {
+        "slug": "alborz",
+        "latitude": "35.99604670",
+        "longitude": "50.92892460",
+        "calling_code": "026",
+        "cities": [
+            {
+                "slug":"savojbolaq",
+                "latitude": "38.37879410",
+                "longitude": "47.49743590"
+            },
+            {
+                "slug":"karaj",
+                "latitude": "35.84001880",
+                "longitude": "50.93909060"
+            },
+            {
+                "slug":"nazar-abad",
+                "latitude": "35.95222200",
+                "longitude": "50.60750000"
+            },
+            {
+                "slug":"taleqn",
+                "latitude": "33.27291710",
+                "longitude": "52.19853140"
+            }
+        ]
+    },
+    {
+        "slug": "ilam",
+        "latitude": "33.29576180",
+        "longitude": "46.67053400",
+        "calling_code": "084",
+        "cities": [
+            {
+                "slug":"ilam",
+                "latitude": "33.29576180",
+                "longitude": "46.67053400"
+            },
+            {
+                "slug":"ivan",
+                "latitude": "33.82722200",
+                "longitude": "46.30972200"
+            },
+            {
+                "slug":"darre-shahr",
+                "latitude": "33.13972200",
+                "longitude": "47.37611100"
+            },
+            {
+                "slug":"dehloran",
+                "latitude": "32.69416700",
+                "longitude": "47.26777800"
+            },
+            {
+                "slug":"mehran",
+                "latitude": "33.12222200",
+                "longitude": "46.16472200"
+            }
+        ]
+    },
+    {
+        "slug": "bushehr",
+        "latitude": "28.92338370",
+        "longitude": "50.82031400",
+        "calling_code": "077",
+        "cities": [
+            {
+                "slug":"boushehr",
+                "latitude": "28.92338370",
+                "longitude": "50.82031400"
+            },
+            {
+                "slug":"jam",
+                "latitude": "27.82777800",
+                "longitude": "52.32694400"
+            },
+            {
+                "slug":"dashtestan",
+                "latitude": "29.26666700",
+                "longitude": "51.21666700"
+            },
+            {
+                "slug":"deylam",
+                "latitude": "30.11826320",
+                "longitude": "50.22612270"
+            },
+            {
+                "slug":"gonaveh",
+                "latitude": "29.57916700",
+                "longitude": "50.51694400"
+            }
+        ]
+    },
+    {
+        "slug": "tehran",
+        "latitude": "35.69611100",
+        "longitude": "51.42305600",
+        "calling_code": "021",
+        "cities": [
+            {
+                "slug":"islam-shar",
+                "latitude": "35.54458050",
+                "longitude": "51.23024570"
+            },
+            {
+                "slug":"pakdasht",
+                "latitude": "35.46689130",
+                "longitude": "51.68606250"
+            },
+            {
+                "slug":"tehran",
+                "latitude": "35.69611100",
+                "longitude": "51.42305600"
+            },
+            {
+                "slug":"damavand",
+                "latitude": "35.94674940",
+                "longitude": "52.12754810"
+            },
+            {
+                "slug":"robat-karim",
+                "latitude": "35.48472200",
+                "longitude": "51.08277800"
+            },
+            {
+                "slug":"ray",
+                "latitude": "48.34446630",
+                "longitude": "-103.16518450"
+            },
+            {
+                "slug":"shemiranat",
+                "latitude": "35.95480210",
+                "longitude": "51.59916430"
+            },
+            {
+                "slug":"shahriyar",
+                "latitude": "35.65972200",
+                "longitude": "51.05916700"
+            },
+            {
+                "slug":"firoozkooh",
+                "latitude": "35.43867100",
+                "longitude": "60.80938700"
+            },
+            {
+                "slug":"varamin",
+                "latitude": "35.32524070",
+                "longitude": "51.64719870"
+            }
+        ]
+    },
+    {
+        "slug": "charmahal-va-bakhtiari",
+        "latitude": "31.96143480",
+        "longitude": "50.84563230",
+        "calling_code": "038",
+        "cities": [
+            {
+                "slug":"borujen",
+                "latitude": "31.96527800",
+                "longitude": "51.28722200"
+            },
+            {
+                "slug":"shahreh-kurd",
+                "latitude": "32.32555600",
+                "longitude": "50.86444400"
+            }
+        ]
+    },
+    {
+        "slug": "khorasan-jonubi",
+        "latitude": "32.51756430",
+        "longitude": "59.10417580",
+        "calling_code": "056",
+        "cities": [
+            {
+                "slug":"birjand",
+                "latitude": "32.86490390",
+                "longitude": "59.22624720"
+            }
+        ]
+    },
+    {
+        "slug": "khorasan-razavi",
+        "latitude": "35.10202530",
+        "longitude": "59.10417580",
+        "calling_code": "051",
+        "cities": [
+            {
+                "slug":"sabzevar",
+                "latitude": "36.21518230",
+                "longitude": "57.66782280"
+            },
+            {
+                "slug":"quchan",
+                "latitude": "37.10611100",
+                "longitude": "58.50944400"
+            },
+            {
+                "slug":"torqabeh-shandiz",
+                "latitude": "36.35488410",
+                "longitude": "59.43839550"
+            },
+            {
+                "slug":"mashhad",
+                "latitude": "36.26046230",
+                "longitude": "59.61675490"
+            },
+            {
+                "slug":"neyshabur",
+                "latitude": "36.21408650",
+                "longitude": "58.79609150"
+            }
+        ]
+    },
+    {
+        "slug": "khorasan-shomali",
+        "latitude": "37.47103530",
+        "longitude": "57.10131880",
+        "calling_code": "058",
+        "cities": [
+            {
+                "slug":"bojnurd",
+                "latitude": "37.47500000",
+                "longitude": "57.33333300"
+            }
+        ]
+    },
+    {
+        "slug": "khuzestan",
+        "latitude": "31.43601490",
+        "longitude": "49.04131200",
+        "calling_code": "061",
+        "cities": [
+            {
+                "slug":"andimeshk",
+                "latitude": "32.46000000",
+                "longitude": "48.35916700"
+            },
+            {
+                "slug":"ahwaz",
+                "latitude": "31.31832720",
+                "longitude": "48.67061870"
+            },
+            {
+                "slug":"behbahan",
+                "latitude": "30.59583300",
+                "longitude": "50.24166700"
+            },
+            {
+                "slug":"khoramshahr",
+                "latitude": "30.42562190",
+                "longitude": "48.18911850"
+            },
+            {
+                "slug":"dezfoul",
+                "latitude": "32.38307770",
+                "longitude": "48.42358410"
+            },
+            {
+                "slug":"shoosh",
+                "latitude": "32.19416700",
+                "longitude": "48.24361100"
+            },
+            {
+                "slug":"shooshtar",
+                "latitude": "32.04555600",
+                "longitude": "48.85666700"
+            }
+        ]
+    },
+    {
+        "slug": "zanjan",
+        "latitude": "36.50181850",
+        "longitude": "48.39881860",
+        "calling_code": "024",
+        "cities": [
+            {
+                "slug":"zanjan",
+                "latitude": "36.50181850",
+                "longitude": "48.39881860"
+            }
+        ]
+    },
+    {
+        "slug": "semnan",
+        "latitude": "35.22555850",
+        "longitude": "54.43421380",
+        "calling_code": "023",
+        "cities": [
+            {
+                "slug":"damqan",
+                "latitude": "36.16833300",
+                "longitude": "54.34805600"
+            },
+            {
+                "slug":"semnan",
+                "latitude": "35.22555850",
+                "longitude": "54.43421380"
+            },
+            {
+                "slug":"shahrood",
+                "latitude": "36.41805600",
+                "longitude": "54.97638900"
+            },
+            {
+                "slug":"garmsar",
+                "latitude": "35.21833300",
+                "longitude": "52.34083300"
+            }
+        ]
+    },
+    {
+        "slug": "sistan-va-balouchestan",
+        "latitude": "27.52999060",
+        "longitude": "60.58206760",
+        "calling_code": "054",
+        "cities": [
+            {
+                "slug":"chabahar",
+                "latitude": "25.29194400",
+                "longitude": "60.64305600"
+            },
+            {
+                "slug":"zabol",
+                "latitude": "31.02861100",
+                "longitude": "61.50111100"
+            },
+            {
+                "slug":"zahedan",
+                "latitude": "29.49638900",
+                "longitude": "60.86277800"
+            }
+        ]
+    },
+    {
+        "slug": "fars",
+        "latitude": "29.10438130",
+        "longitude": "53.04589300",
+        "calling_code": "071",
+        "cities": [
+            {
+                "slug":"fasa",
+                "latitude": "28.93833300",
+                "longitude": "53.64833300"
+            },
+            {
+                "slug":"kazeroon",
+                "latitude": "29.61944400",
+                "longitude": "51.65416700"
+            },
+            {
+                "slug":"marvdasht",
+                "latitude": "29.87416700",
+                "longitude": "52.80250000"
+            },
+            {
+                "slug":"shiraz",
+                "latitude": "29.61944400",
+                "longitude": "51.65416700"
+            }
+        ]
+    },
+    {
+        "slug": "qazvin",
+        "latitude": "36.08813170",
+        "longitude": "49.85472660",
+        "calling_code": "028",
+        "cities": [
+            {
+                "slug":"abyek",
+                "latitude": "36.04000000",
+                "longitude": "50.53111100"
+            },
+            {
+                "slug":"alborz",
+                "latitude": "35.99604670",
+                "longitude": "50.92892460"
+            },
+            {
+                "slug":"qazvin",
+                "latitude": "36.08813170",
+                "longitude": "49.85472660"
+            }
+        ]
+    },
+    {
+        "slug": "qom",
+        "latitude": "34.63994430",
+        "longitude": "50.87594190",
+        "calling_code": "025",
+        "cities": [
+            {
+                "slug":"qom",
+                "latitude": "34.63994430",
+                "longitude": "50.87594190"
+            }
+        ]
+    },
+    {
+        "slug": "kurdestan",
+        "latitude": "35.95535790",
+        "longitude": "47.13621250",
+        "calling_code": "087",
+        "cities": [
+            {
+                "slug":"baneh",
+                "latitude": "35.99859990",
+                "longitude": "45.88234280"
+            },
+            {
+                "slug":"saqez",
+                "latitude": "36.24638900",
+                "longitude": "46.26638900"
+            },
+            {
+                "slug":"sanandaj",
+                "latitude": "35.32187480",
+                "longitude": "46.98616470"
+            },
+            {
+                "slug":"marivan",
+                "latitude": "35.52694400",
+                "longitude": "46.17638900"
+            }
+        ]
+    },
+    {
+        "slug": "kerman",
+        "latitude": "30.28393790",
+        "longitude": "57.08336280",
+        "calling_code": "034",
+        "cities": [
+            {
+                "slug":"bam",
+                "latitude": "29.10611100",
+                "longitude": "58.35694400"
+            },
+            {
+                "slug":"sirjan",
+                "latitude": "29.45866760",
+                "longitude": "55.67140510"
+            },
+            {
+                "slug":"kerman",
+                "latitude": "29.48500890",
+                "longitude": "57.64390480"
+            }
+        ]
+    },
+    {
+        "slug": "kermanshah",
+        "latitude": "34.31416700",
+        "longitude": "47.06500000",
+        "calling_code": "083",
+        "cities": [
+            {
+                "slug":"paveh",
+                "latitude": "35.04333300",
+                "longitude": "46.35638900"
+            },
+            {
+                "slug":"qasreh-shirin",
+                "latitude": "34.51590310",
+                "longitude": "45.57768590"
+            },
+            {
+                "slug":"kermanshah",
+                "latitude": "34.45762330",
+                "longitude": "46.67053400"
+            }
+        ]
+    },
+    {
+        "slug": "kohkiloye-va-boyerahmad",
+        "latitude": "30.65094790",
+        "longitude": "51.60525000",
+        "calling_code": "074",
+        "cities": [
+            {
+                "slug":"boyer-ahmad",
+                "latitude": "30.72458600",
+                "longitude": "50.84563230"
+            },
+            {
+                "slug":"gachsaran",
+                "latitude": "30.35000000",
+                "longitude": "50.80000000"
+            }
+        ]
+    },
+    {
+        "slug": "golestan",
+        "latitude": "37.28981230",
+        "longitude": "55.13758340",
+        "calling_code": "017",
+        "cities": [
+
+            {
+                "slug":"azad-shahr",
+                "latitude": "37.08694400",
+                "longitude": "55.17388900"
+            },
+            {
+                "slug":"Aqqala",
+                "latitude": "37.01388900",
+                "longitude": "54.45500000"
+            },
+            {
+                "slug":"bandar-gaz",
+                "latitude": "36.77496500",
+                "longitude": "53.94617490"
+            },
+            {
+                "slug":"bandar-torkaman",
+                "latitude": "36.90166700",
+                "longitude": "54.07083300"
+            },
+            {
+                "slug":"gorgan",
+                "latitude": "36.84564270",
+                "longitude": "54.43933630"
+            },
+            {
+                "slug":"gonbad-kavus",
+                "latitude": "37.25000000",
+                "longitude": "55.16722200"
+            }
+        ]
+    },
+    {
+        "slug": "gilan",
+        "latitude": "37.11716170",
+        "longitude": "49.52799960",
+        "calling_code": "013",
+        "cities": [
+            {
+                "slug":"astara",
+                "latitude": "38.42916700",
+                "longitude": "48.87194400"
+            },
+            {
+                "slug":"bandar-anzali",
+                "latitude": "37.47244670",
+                "longitude": "49.45873120"
+            },
+            {
+                "slug":"rasht",
+                "latitude": "37.28083300",
+                "longitude": "49.58305600"
+            },
+            {
+                "slug":"fooman",
+                "latitude": "37.22388900",
+                "longitude": "49.31250000"
+            },
+            {
+                "slug":"lahijan",
+                "latitude": "37.20722200",
+                "longitude": "50.00388900"
+            },
+            {
+                "slug":"langerood",
+                "latitude": "37.19694400",
+                "longitude": "50.15361100"
+            }
+        ]
+    },
+    {
+        "slug": "lorestan",
+        "latitude": "33.58183940",
+        "longitude": "48.39881860",
+        "calling_code": "066",
+        "cities": [
+            {
+                "slug":"borujerd",
+                "latitude": "33.89419930",
+                "longitude": "48.76703300"
+            },
+            {
+                "slug":"pul-dokhtar",
+                "latitude": "33.15361100",
+                "longitude": "47.71361100"
+            },
+            {
+                "slug":"khoram-abad",
+                "latitude": "33.48777800",
+                "longitude": "48.35583300"
+            }
+        ]
+    },
+    {
+        "slug": "mazandaran",
+        "latitude": "36.22623930",
+        "longitude": "52.53186040",
+        "calling_code": "011",
+        "cities": [
+            {
+                "slug":"amul",
+                "latitude": "36.46972200",
+                "longitude": "52.35083300"
+            },
+            {
+                "slug":"babul",
+                "latitude": "32.46819100",
+                "longitude": "44.55019350"
+            },
+            {
+                "slug":"babulsar",
+                "latitude": "36.70250000",
+                "longitude": "52.65750000"
+            },
+            {
+                "slug":"behshar",
+                "latitude": "36.69222200",
+                "longitude": "53.55250000"
+            },
+            {
+                "slug":"tonekabon",
+                "latitude": "36.81638900",
+                "longitude": "50.87388900"
+            },
+            {
+                "slug":"jooybar",
+                "latitude": "36.64111100",
+                "longitude": "52.91250000"
+            },
+            {
+                "slug":"chalus",
+                "latitude": "36.64591740",
+                "longitude": "51.40697900"
+            },
+            {
+                "slug":"ramsar",
+                "latitude": "36.90305600",
+                "longitude": "50.65833300"
+            },
+            {
+                "slug":"sari",
+                "latitude": "36.56333300",
+                "longitude": "53.06000000"
+            },
+            {
+                "slug":"savad-kuh",
+                "latitude": "36.30402550",
+                "longitude": "52.88524030"
+            },
+            {
+                "slug":"mahmud-abad",
+                "latitude": "36.63194400",
+                "longitude": "52.26277800"
+            },
+            {
+                "slug":"noor",
+                "latitude": "50.38512460",
+                "longitude": "3.26424360"
+            },
+            {
+                "slug":"nowshahr",
+                "latitude": "36.64888900",
+                "longitude": "51.49611100"
+            },
+            {
+                "slug":"fereydun-kenar",
+                "latitude": "36.68638900",
+                "longitude": "52.52250000"
+            }
+        ]
+    },
+    {
+        "slug": "markazi",
+        "latitude": "34.4726243",
+        "longitude": "48.6808882",
+        "calling_code": "086",
+        "cities": [
+            {
+                "slug":"ashtiyan",
+                "latitude": "34.52194400",
+                "longitude": "50.00611100"
+            },
+            {
+                "slug":"arak",
+                "latitude": "34.09166700",
+                "longitude": "49.68916700"
+            },
+            {
+                "slug":"tafresh",
+                "latitude": "34.69194400",
+                "longitude": "50.01305600"
+            },
+            {
+                "slug":"khomein",
+                "latitude": "33.64061480",
+                "longitude": "50.07711250"
+            },
+            {
+                "slug":"delijan",
+                "latitude": "33.99055600",
+                "longitude": "50.68388900"
+            },
+            {
+                "slug":"saveh",
+                "latitude": "35.02138900",
+                "longitude": "50.35666700"
+            },
+            {
+                "slug":"mahalat",
+                "latitude": "33.90857480",
+                "longitude": "50.45526160"
+            }
+        ]
+    },
+    {
+        "slug": "hormozgan",
+        "latitude": "27.13872300",
+        "longitude": "55.13758340",
+        "calling_code": "076",
+        "cities": [
+            {
+                "slug":"bandar-abbas",
+                "latitude": "27.18322160",
+                "longitude": "56.26664550"
+            },
+            {
+                "slug":"minab",
+                "latitude": "27.14666700",
+                "longitude": "57.08000000"
+            },
+            {
+                "slug":"bandar-lengeh",
+                "latitude": "26.55805600",
+                "longitude": "54.88055600"
+            },
+            {
+                "slug":"jask",
+                "latitude": "25.64388900",
+                "longitude": "57.77444400"
+            },
+            {
+                "slug":"qeshm",
+                "latitude": "26.81186730",
+                "longitude": "55.89132070"
+            },
+            {
+                "slug":"bastak",
+                "latitude": "27.19916700",
+                "longitude": "54.36666700"
+            },
+            {
+                "slug":"gavbandi",
+                "latitude": "27.20833300",
+                "longitude": "53.03611100"
+            },
+            {
+                "slug":"khamir",
+                "latitude": "26.95222200",
+                "longitude": "55.58500000"
+            }
+        ]
+    },
+    {
+        "slug": "hamedan",
+        "latitude": "34.76079990",
+        "longitude": "48.39881860",
+        "calling_code": "081",
+        "cities": [
+            {
+                "slug":"asad-abad",
+                "latitude": "34.78250000",
+                "longitude": "48.11861100"
+            },
+            {
+                "slug":"bahar",
+                "latitude": "34.90832520",
+                "longitude": "48.43927290"
+            },
+            {
+                "slug":"tooyeeserkan",
+                "latitude": "34.54805600",
+                "longitude": "48.44694400"
+            },
+            {
+                "slug":"razan",
+                "latitude": "35.38666700",
+                "longitude": "49.03388900"
+            },
+            {
+                "slug":"kabodar-ahang",
+                "latitude": "35.20833300",
+                "longitude": "48.72388900"
+            },
+            {
+                "slug":"malayer",
+                "latitude": "34.29694400",
+                "longitude": "48.82361100"
+            },
+            {
+                "slug":"nahavand",
+                "latitude": "34.18861100",
+                "longitude": "48.37694400"
+            },
+            {
+                "slug":"hamedan",
+                "latitude": "34.76079990",
+                "longitude": "48.39881860"
+            }
+        ]
+    },
+    {
+        "slug": "yazd",
+        "latitude": "32.10063870",
+        "longitude": "54.43421380",
+        "calling_code": "035",
+        "cities": [
+            {
+                "slug":"abarkooh",
+                "latitude": "31.13040360",
+                "longitude": "53.25037360"
+            },
+            {
+                "slug":"ardakan",
+                "latitude": "32.31000000",
+                "longitude": "54.01750000"
+            },
+            {
+                "slug":"bafq",
+                "latitude": "31.61277800",
+                "longitude": "55.41055600"
+            },
+            {
+                "slug":"taft",
+                "latitude": "27.97890740",
+                "longitude": "-97.39860410"
+            },
+            {
+                "slug":"khatam",
+                "latitude": "37.27091520",
+                "longitude": "49.59691460"
+            },
+            {
+                "slug":"sadoq",
+                "latitude": "32.02421620",
+                "longitude": "53.47703590"
+            },
+            {
+                "slug":"tabas",
+                "latitude": "33.59583300",
+                "longitude": "56.92444400"
+            },
+            {
+                "slug":"mehriz",
+                "latitude": "31.59166700",
+                "longitude": "54.43166700"
+            },
+            {
+                "slug":"meybod",
+                "latitude": "32.24872260",
+                "longitude": "54.00793410"
+            },
+            {
+                "slug":"yazd",
+                "latitude": "32.10063870",
+                "longitude": "54.43421380"
+            }
+        ]
+    }
+]
