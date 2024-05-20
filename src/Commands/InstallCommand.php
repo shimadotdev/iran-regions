@@ -19,7 +19,7 @@ class InstallCommand extends Command
      *
      * @var string
      */
-    protected $description = 'Install and publish IranProvinceCity Package and import the data';
+    protected $description = 'Install and publish IranRegions Package and import the data';
 
     /**
      * Execute the console command.
