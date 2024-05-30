@@ -35,9 +35,12 @@ $province = Iran::province()->where('slug', '=', 'tehran')->first();
 // Get all provinces with their slugs and calling codes
 $provinces = Iran::province()->get(['slug', 'calling_code']);
 
+//Update a city
+$provinces = Iran::city()->where('slug', '=', 'qom')->update(['is_active'=> 0]);
+
 ```
 
-You can also utilize Laravel's Eloquent ORM to create custom queries and interact with the data as usual.
+As you see, you can also utilize Laravel's Eloquent ORM to create custom queries and interact with the data as usual.
 
 ## Localization Support
 
