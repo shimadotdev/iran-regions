@@ -11,11 +11,13 @@ class InstallCommandTest extends TestCase {
     use RefreshDatabase;
 
     /**
-     * @todo define test attributes after phpunit 11 issue is fixed
+     * @covers Shimadotdev\IranRegions\Commands
     */
     public function test_runs_the_install_command_successfully()
 	{
         $this->artisan('iran-regions:install')
+            ->expectsOutputToContain("Seeding database")
             ->assertExitCode(0);
+
 	}
 }

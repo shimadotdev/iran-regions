@@ -6,6 +6,9 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\App;
 use Shimadotdev\IranRegions\Iran;
 
+/**
+ * @covers Shimadotdev\IranRegions
+ */
 class LocaleTest extends TestCase
 {
     use RefreshDatabase;

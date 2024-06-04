@@ -17,6 +17,9 @@ class IranTest extends TestCase
         $this->artisan('iran-regions:install');
     }
 
+    /**
+     * @covers Shimadotdev\IranRegions
+     */
     public function testProvinceQuery()
     {
         // Test querying a single province
@@ -35,6 +38,9 @@ class IranTest extends TestCase
         }
     }
 
+    /**
+     * @covers Shimadotdev\IranRegions
+     */
     public function testCityQuery()
     {
         // Test querying a single city
