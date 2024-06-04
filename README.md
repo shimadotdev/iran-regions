@@ -1,3 +1,5 @@
+[![Latest Stable Version](http://poser.pugx.org/shimadotdev/iran-regions/v)](https://packagist.org/packages/shimadotdev/iran-regions) [![Total Downloads](http://poser.pugx.org/shimadotdev/iran-regions/downloads)](https://packagist.org/packages/shimadotdev/iran-regions) [![Latest Unstable Version](http://poser.pugx.org/shimadotdev/iran-regions/v/unstable)](https://packagist.org/packages/shimadotdev/iran-regions) [![License](http://poser.pugx.org/shimadotdev/iran-regions/license)](https://packagist.org/packages/shimadotdev/iran-regions) [![PHP Version Require](http://poser.pugx.org/shimadotdev/iran-regions/require/php)](https://packagist.org/packages/shimadotdev/iran-regions)
+
 # Iran Regions Laravel Package
 
 A Laravel package containing province and city data of Iran, including calling codes, along with geolocation functionality. Ideal for managing location-based information within Laravel apps.
