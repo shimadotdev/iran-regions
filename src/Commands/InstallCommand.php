@@ -28,9 +28,9 @@ class InstallCommand extends Command
     {
         $this->info('Installing Shimadotdev\IranRegions...');
 
-        Artisan::call('vendor:publish --tag=iran-regions --force');
+        Artisan::call('vendor:publish --tag=iran-regions --force', [], $this->getOutput());
 
-        Artisan::call('migrate');
+        Artisan::call('migrate', [], $this->getOutput());
 
         Artisan::call('db:seed --class=IranRegionsSeeder', [], $this->getOutput());
 
