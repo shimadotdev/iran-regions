@@ -40,6 +40,15 @@ $provinces = Iran::province()->get(['slug', 'calling_code']);
 //Update a city
 $provinces = Iran::city()->where('slug', '=', 'qom')->update(['is_active'=> 0]);
 
+//Relations
+Iran::province()->with('cities')->get();
+
+Iran::province()->find(3)->cities;
+
+Iran::City()->with('province')->get();
+
+Iran::City()->where('slug', 'naeen')->first()?->province->slug;
+
 ```
 
 As you see, you can also utilize Laravel's Eloquent ORM to create custom queries and interact with the data as usual.

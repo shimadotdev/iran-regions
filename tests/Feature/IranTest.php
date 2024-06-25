@@ -36,6 +36,15 @@ class IranTest extends TestCase
         foreach ($expectedProvinces as $expectedProvince) {
             $this->assertContains($expectedProvince, $provinceSlugs);
         }
+
+        // Test relations
+        $citiesOfArdabil = Iran::province()->find(3)->cities;
+        $citiesSlugs = $citiesOfArdabil->pluck('slug')->toArray();
+        $expectedCities = ['khalkhaal']; // Example provinces
+        foreach ($expectedCities as $expectedCities) {
+            $this->assertContains($expectedCities, $citiesSlugs);
+        }
+
     }
 
     /**
@@ -57,5 +66,10 @@ class IranTest extends TestCase
         foreach ($expectedCities as $expectedCity) {
             $this->assertContains($expectedCity, $citySlugs);
         }
+
+        // Test relations
+        $provinceOfNaeen = Iran::city()->where('slug', 'naeen')->first()->province;
+        $this->assertEquals('isfehan', $provinceOfNaeen->slug);
+
     }
 }
