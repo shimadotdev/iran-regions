@@ -12,9 +12,6 @@ class IranRegionsServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->app->singleton('iran', function($app){
-            return new Iran();
-        });
     }
 
     /**
